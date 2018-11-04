@@ -1,4 +1,4 @@
-# Oxford Comma List Formatter
+ learn --fail-fast # Oxford Comma List Formatter
 
 ## Objectives
 

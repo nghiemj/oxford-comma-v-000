@@ -1,4 +1,5 @@
-def oxford_comma(array)
-array = ["kiwi", "durian"].join(" and ")
-#array << 'and'
+ def oxford_comma(array)
+array.join(", ")
+if array.count > 2
+  >> " and "
 end
